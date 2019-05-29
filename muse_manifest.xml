@@ -1,0 +1,84 @@
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="VisualAccessibility.com" resolutions="1x,2x" timestamp="1557830457903">
+  <folder name="css">
+    <file name="site_global.css" crc="4033850590"/>
+    <file name="taketori.css" crc="3949100683" ref="tool:tool-plus:help-plus:tool-white:help-white:tool-white-plus:help-white-plus"/>
+    <file name="master_white-plus.css" crc="3881218892" ref="tool-white-plus:help-white-plus:about-white-plus:home-white-plus"/>
+    <file name="master_black.css" crc="3927032075" ref="index:about:design:tool"/>
+    <file name="master_white.css" crc="3828346044" ref="home-white:tool-white:help-white:about-white"/>
+    <file name="master_black-plus.css" crc="3795580738" ref="help-plus:about-plus:home-plus:tool-plus"/>
+    <file name="help-plus.css" crc="180342977" ref="help-plus"/>
+    <file name="index.css" crc="233526196" ref="index"/>
+    <file name="tool-white-plus.css" crc="283185739" ref="tool-white-plus"/>
+    <file name="about-plus.css" crc="3839641929" ref="about-plus"/>
+    <file name="about.css" crc="4226248604" ref="about"/>
+    <file name="help-white-plus.css" crc="3787181900" ref="help-white-plus"/>
+    <file name="home-white.css" crc="3976884018" ref="home-white"/>
+    <file name="design.css" crc="76267737" ref="design"/>
+    <file name="about-white-plus.css" crc="4032851721" ref="about-white-plus"/>
+    <file name="tool-white.css" crc="4279105274" ref="tool-white"/>
+    <file name="tool.css" crc="4144008413" ref="tool"/>
+    <file name="help-white.css" crc="3856392343" ref="help-white"/>
+    <file name="home-plus.css" crc="290726626" ref="home-plus"/>
+    <file name="about-white.css" crc="247634588" ref="about-white"/>
+    <file name="tool-plus.css" crc="199953905" ref="tool-plus"/>
+    <file name="home-white-plus.css" crc="391273465" ref="home-white-plus"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:design:tool:home-plus:tool-plus:help-plus:about-plus:home-white:tool-white:help-white:about-white:home-white-plus:tool-white-plus:help-white-plus:about-white-plus"/>
+    <file name="museutils.js" crc="4148063285" ref="index:about:design:tool:home-plus:tool-plus:help-plus:about-plus:home-white:tool-white:help-white:about-white:home-white-plus:tool-white-plus:help-white-plus:about-white-plus"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:design:tool:home-plus:tool-plus:help-plus:about-plus:home-white:tool-white:help-white:about-white:home-white-plus:tool-white-plus:help-white-plus:about-white-plus"/>
+    <file name="museconfig.js" crc="172512987" ref="index:about:design:tool:home-plus:tool-plus:help-plus:about-plus:home-white:tool-white:help-white:about-white:home-white-plus:tool-white-plus:help-white-plus:about-white-plus"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="index:design:tool:home-plus:tool-plus:help-plus:home-white:tool-white:help-white:home-white-plus:tool-white-plus:help-white-plus"/>
+    <file name="jquery.musemenu.js" crc="3765830709" ref="index:about:design:tool:home-plus:tool-plus:help-plus:about-plus:home-white:tool-white:help-white:about-white:home-white-plus:tool-white-plus:help-white-plus:about-white-plus"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index:about:design:tool:home-plus:tool-plus:help-plus:about-plus:home-white:tool-white:help-white:about-white:home-white-plus:tool-white-plus:help-white-plus:about-white-plus"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:design:tool:home-plus:tool-plus:help-plus:about-plus:home-white:tool-white:help-white:about-white:home-white-plus:tool-white-plus:help-white-plus:about-white-plus"/>
+    <file name="require.js" crc="4159430777" ref="index:about:design:tool:home-plus:tool-plus:help-plus:about-plus:home-white:tool-white:help-white:about-white:home-white-plus:tool-white-plus:help-white-plus:about-white-plus"/>
+    <file name="jquery.scrolleffects.js" crc="3801019579" ref="tool:tool-plus:help-plus:tool-white:help-white:tool-white-plus:help-white-plus"/>
+    <file name="taketori.js" crc="441711385" ref="tool:tool-plus:help-plus:tool-white:help-white:tool-white-plus:help-white-plus"/>
+  </folder>
+  <folder name="images">
+    <file name="va logo2.png" crc="3814489574" seo="true" ref="index:about:tool:home-plus:tool-plus:about-plus:home-white:tool-white:about-white:home-white-plus:tool-white-plus:about-white-plus"/>
+    <file name="va logo2_2x.png" crc="4238017402" seo="true" ref="index:about:tool:home-plus:tool-plus:about-plus:home-white:tool-white:about-white:home-white-plus:tool-white-plus:about-white-plus"/>
+    <file name="va logo white.png" crc="4187476129" ref="index:tool:home-plus:tool-plus:home-white:tool-white:home-white-plus:tool-white-plus"/>
+    <file name="va logo white_2x.png" crc="128946106" ref="index:tool:home-plus:tool-plus:home-white:tool-white:home-white-plus:tool-white-plus"/>
+    <file name="blank.gif" crc="4208392903" ref="index:home-plus:home-white:home-white-plus"/>
+    <file name="va logo white32x32.png" crc="86926652" seo="true" ref="index"/>
+    <file name="va logo white32x32_2x.png" crc="4185814307" seo="true" ref="index"/>
+    <file name="prompt.jpg" crc="4008785702" seo="true" ref="index:tool:home-plus:tool-plus:home-white:tool-white:home-white-plus:tool-white-plus"/>
+    <file name="prompt_2x.jpg" crc="365237162" seo="true" ref="index:tool:home-plus:tool-plus:home-white:tool-white:home-white-plus:tool-white-plus"/>
+    <file name="untitled-1.jpg" crc="15096758" seo="true" ref="design:help-plus:help-white:help-white-plus"/>
+    <file name="untitled-1_2x.jpg" crc="4081290754" seo="true" ref="design:help-plus:help-white:help-white-plus"/>
+    <file name="untitled-2.jpg" crc="4075614084" seo="true" ref="design:help-plus:help-white:help-white-plus"/>
+    <file name="untitled-2_2x.jpg" crc="4271639390" seo="true" ref="design:help-plus:help-white:help-white-plus"/>
+    <file name="untitled-3.jpg" crc="491011929" seo="true" ref="design:help-plus:help-white:help-white-plus"/>
+    <file name="untitled-3_2x.jpg" crc="3767229612" seo="true" ref="design:help-plus:help-white:help-white-plus"/>
+    <file name="untitled-12.jpg" crc="3833274228" ref="design:help-plus:help-white:help-white-plus"/>
+    <file name="untitled-1_2x2.jpg" crc="205873825" ref="design:help-plus:help-white:help-white-plus"/>
+    <file name="untitled-22.jpg" crc="3766622335" ref="design:help-plus:help-white:help-white-plus"/>
+    <file name="untitled-2_2x2.jpg" crc="4069182763" ref="design:help-plus:help-white:help-white-plus"/>
+    <file name="d1.jpg" crc="400007600" ref="design:help-plus:help-white:help-white-plus"/>
+    <file name="d1_2x.jpg" crc="49012351" ref="design:help-plus:help-white:help-white-plus"/>
+    <file name="d2.jpg" crc="303453896" ref="design:help-plus:help-white:help-white-plus"/>
+    <file name="d2_2x.jpg" crc="3951891247" ref="design:help-plus:help-white:help-white-plus"/>
+    <file name="cb2.jpg" crc="462473613" ref="design:help-plus:help-white:help-white-plus"/>
+    <file name="cb2_2x.jpg" crc="3786602035" ref="design:help-plus:help-white:help-white-plus"/>
+    <file name="cb.jpg" crc="503699196" ref="design:help-plus:help-white:help-white-plus"/>
+    <file name="cb_2x.jpg" crc="192344895" ref="design:help-plus:help-white:help-white-plus"/>
+  </folder>
+  <file name="index.html" crc="479127756" seo="true" mt="1557808807480" redirect="true"/>
+  <file name="about.html" crc="4055768632" seo="true" mt="1557827992839" redirect="true"/>
+  <file name="design.html" crc="4088637455" seo="true" mt="1557830451462" redirect="true"/>
+  <file name="tool.html" crc="3847286366" seo="true" mt="1557827870937" redirect="true"/>
+  <file name="home-plus.html" crc="138377834" seo="true" mt="1557808836548" redirect="true"/>
+  <file name="tool-plus.html" crc="303893115" seo="true" mt="1557823986122" redirect="true"/>
+  <file name="help-plus.html" crc="4119875105" seo="true" mt="1557830451459" redirect="true"/>
+  <file name="about-plus.html" crc="4246409767" seo="true" mt="1557828053842" redirect="true"/>
+  <file name="home-white.html" crc="413705113" seo="true" mt="1557808858281" redirect="true"/>
+  <file name="tool-white.html" crc="473335117" seo="true" mt="1557824261831" redirect="true"/>
+  <file name="help-white.html" crc="28241398" seo="true" mt="1557830451460" redirect="true"/>
+  <file name="about-white.html" crc="3847509067" seo="true" mt="1557828107916" redirect="true"/>
+  <file name="home-white-plus.html" crc="4257845849" seo="true" mt="1557808878402" redirect="true"/>
+  <file name="tool-white-plus.html" crc="9055595" seo="true" mt="1557823997586" redirect="true"/>
+  <file name="help-white-plus.html" crc="4274083872" seo="true" mt="1557830451461" redirect="true"/>
+  <file name="about-white-plus.html" crc="472021120" seo="true" mt="1557828222514" redirect="true"/>
+</manifest>
